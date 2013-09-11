@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-pratice for DWA15
+practice for DWA15
